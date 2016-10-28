@@ -1,0 +1,18 @@
+.margen{
+  margin-top: 3em;
+}
+.unem{
+  margin: .3em;
+}
+
+input{
+  width: 85%;
+  height: 2.3em;
+}
+.amarilla{
+  background-color: aqua;
+}
+.caja{
+  width: 23%;
+  display: inline-block;
+}
