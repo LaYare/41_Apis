@@ -16,3 +16,9 @@ input{
   width: 23%;
   display: inline-block;
 }
+
+.trans{
+  transition: .5s;
+  transform: scale(1.1);
+
+}
